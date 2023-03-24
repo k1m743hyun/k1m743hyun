@@ -22,28 +22,32 @@
 
 #### Cloud
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=222222&logo=Amazon+EC2&logoColor=FF9900&label=)
+![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
+![Amazon EKS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EKS&color=222222&logo=Amazon+EKS&logoColor=FF9900&label=)
+![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=527FFF&logo=Amazon+RDS&logoColor=FFFFFF&label=)
+![Amazon CloudWatch](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+CloudWatch&color=FF4F8B&logo=Amazon+CloudWatch&logoColor=FFFFFF&label=)
+![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white) 
 
 #### Network Traffic
 ![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 
 #### Monitoring
-![Amazon CloudWatch](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+CloudWatch&color=FF4F8B&logo=Amazon+CloudWatch&logoColor=FFFFFF&label=)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571.svg?style=for-the-badge&logo=Kibana&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000.svg?style=for-the-badge&logo=Splunk&logoColor=white)
 
-#### Microservice
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
-![Amazon EKS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EKS&color=222222&logo=Amazon+EKS&logoColor=FF9900&label=)
-![istio](https://img.shields.io/badge/Istio-466BB0.svg?style=for-the-badge&logo=Istio&logoColor=white)
-![Consul](https://img.shields.io/badge/Consul-F24C53.svg?style=for-the-badge&logo=Consul&logoColor=white)
-
 #### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
 ![Argo](https://img.shields.io/static/v1?style=for-the-badge&message=Argo&color=EF7B4D&logo=Argo&logoColor=FFFFFF&label=)
+
+#### Microservice
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![istio](https://img.shields.io/badge/Istio-466BB0.svg?style=for-the-badge&logo=Istio&logoColor=white)
+![Consul](https://img.shields.io/badge/Consul-F24C53.svg?style=for-the-badge&logo=Consul&logoColor=white)
 
 #### Application
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
